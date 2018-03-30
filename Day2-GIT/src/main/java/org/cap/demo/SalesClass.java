@@ -8,4 +8,8 @@ public class SalesClass {
 		System.out.println("Show Method");
 	}
 
+	//Test Commit
+		public void hello(){
+			
+		}
 }
