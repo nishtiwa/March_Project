@@ -6,4 +6,9 @@ public class MainClass {
 	public void hello(){
 		
 	}
+	public void developerOneChanges()
+	{
+		System.out.println("Hi, This file is written by Developer 1");
+		
+	}
 }
